@@ -1,5 +1,5 @@
 {
-    "name": "ᴀɴᴏɴダᴍᴜsɪᴄ",
+    "name": "ダᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/56d1760224589ee370186.jpg",
     "keywords": [
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "13641413",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "1bc75e21e85f7e824f2bc82d9be5f0a4",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,12 +30,12 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5692969819:AAHyXu0pH2d76vn3QBtWqxUQhzj7-cDygxk",
         "required": true
       },
       "DURATION_LIMIT_MIN": {
         "description": "Maximum duration that your bot can play in minutes.",
-        "value": "90",
+        "value": "6099",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -50,7 +50,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+        "value": "🥀🎼𓆩 ≛⎯⳰͢⃝🥀ᴹⁱˢˢ★Cђ͢͢aђaτ★🥀🕊️⃝🎼🥀ᴄ",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -65,22 +65,22 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1356469075",
+        "value": "1355744138",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQA9Ph6eZZ-7-5RxxdPgnHgdFNYOlBRx4dx5tNSoUq_u1TmJbxRqunWUlUCjszfCU7Yj_56u_tmINvzT624VN52wjdFHj5hY0XHTZ4TnrI6MP3-Vh7E64NiI7u6MUlN_TkTjKrdYzBsa87I_gr0ySgFEabr6BOVDjtxu8GIl6tS7LnFL9YX8SLj6UMNnWkAnNNHrXYFeteJyqSfsyJDOE4vYnvKYh_4_77V3TbW-aCxNLvEVuKLpj1x27hA-O2pGVu0RoDIoRI7kOdjaX-IpLJimw2DR9xINSlCpeEUm5kA5QKCiYOXohjGad21rni_TmUOilQssmEpiCslSbUxU-hCDAAAAAT4O7RwA",
         "required": true
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "",
+        "value": "https://telegra.ph/file/13bac37ecf17653dec55f.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "",
+        "value": "https://telegra.ph/file/13bac37ecf17653dec55f.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -95,17 +95,17 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001835443285",
         "required": true
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "https://t.me/DevilsHeavenMF",
+        "value": "https://t.me/SPARTANBOT_XD",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "https://t.me/Akhand_Words",
+        "value": "https://t.me/SPARTANBOT_XD",
         "required": false
       }
     },
